@@ -1,0 +1,6 @@
+This is a python3.5 program that adds/updates/list
+to a SQLite database.
+I also want wo create a WebApp that allows the 
+same options to anyone as long as the Table is
+already in the database. If its not then they will 
+need to login of email to get it added.
